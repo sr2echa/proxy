@@ -12,6 +12,6 @@
     { "source": "/:match/:url*", "destination": "https://:match/:url*" },
     { "source": "/:match/:url*/", "destination": "https://:match/:url*/" },
     { "source": "/:match/:url*/", "destination": "https://:match/:url*/" },
-    { "source": "/download", "destination": "/neo.zip" },
+    { "source": "/download", "destination": "/neo.zip" }
   ]
 }
